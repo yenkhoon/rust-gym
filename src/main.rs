@@ -1,3 +1,7 @@
+
+// debug - enable print debug
+// clone & copy - ownership no longer passing however a copy (normally use for smaller in size)
+#[derive(Debug, Clone, Copy)]
 enum SkinColor {
     Dark,
     Darker,

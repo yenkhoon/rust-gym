@@ -8,3 +8,4 @@
 - structs
 - enums
 - match
+- advanced match & enums with types (a2.rs)
